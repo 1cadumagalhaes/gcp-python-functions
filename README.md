@@ -42,12 +42,6 @@ Currently, the following GCP services are supported:
 
 ## Installation
 
-To use the utility classes in your Python project, you can install the `gcp-python-functions` package using pip. First, make sure you have Python and pip installed. Then, run the following command:
-
-```shell
-pip install gcp-python-functions
-```
-
 ## Usage
 
 Refer to the documentation of each utility class for more detailed usage examples and available methods.
